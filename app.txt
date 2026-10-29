@@ -1,1 +1,2 @@
-This is First line if commi
+This is First line of commit
+This is second line of commit
